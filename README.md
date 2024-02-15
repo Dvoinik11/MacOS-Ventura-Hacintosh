@@ -10,4 +10,4 @@
 | Сеть                   | BCM94360CD     |
 | macOS              		 | Ventura 13.3							  |
 
-## [Download](https://github.com/BassmanOff/Honor_VLR-W09_Hackintosh/archive/refs/heads/main.zip)
+## [Download](https://github.com/Dvoinik11/MacOS-Ventura-Hacintosh/releases/tag/Ventura)
