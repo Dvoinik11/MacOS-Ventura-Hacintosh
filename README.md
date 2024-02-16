@@ -4,10 +4,10 @@
 
 | Характеристика         | Значение                   |
 | ----------------------| --------------------------|
-| OpenCore               | 0.9.1                      |
+| OpenCore               | 0.9.6                      |
 | Материнская плата                | ASUS Z170 Pro Gamig               |
 | Процессор              | Intel Core i5-6600        |
 | Сеть                   | BCM94360CD     |
-| macOS              		 | Ventura 13.3							  |
+| macOS              		 | Ventura 13.6.3							  |
 
 ## [Download](https://github.com/Dvoinik11/MacOS-Ventura-Hacintosh/releases/tag/Ventura)
